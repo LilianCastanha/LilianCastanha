@@ -1,16 +1,18 @@
-### Hi there 👋
+## Olá! Eu sou a Lilian Castanha 
 
-<!--
-**LilianCastanha/LilianCastanha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Universitária em Engenharia de Software na Uniamérica Descomplica
+- 🌱 Hoje estudando Javascript/Html/Css
+- 😄 Pronouns:ela/dela
+  
+<div>
+  <img align="center" alt="js" height="40" width="50" src=https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E/>
+  <img align="center" alt="html" height="40" width="50" src=https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white/>
+  <img align="center" alt="js" height="40" width="50" src=https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white/>
+</div>
 
-Here are some ideas to get you started:
+<div>
+  <a href="mailto:contato@lilian_castanha@hotmail.com"> <img align="center" alt="email" height="40" width="120" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?     style=for-the-badge&logo=microsoft-outlook&logoColor=white"target="blank"></a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+        
