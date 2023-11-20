@@ -14,5 +14,6 @@
   <a href="mailto:contato@lilian_castanha@hotmail.com"> <img align="center" alt="email" height="40" width="120" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?     style=for-the-badge&logo=microsoft-outlook&logoColor=white"target="blank"></a>
 </div>
 
+![snake gif](https://github.com/liliancastanha/liliancastanha/blob/output/github-contribution-grid-snake.svg)
 
         
