@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Lilian Castanha 
 
 - 🔭 Universitária em Engenharia de Software na Uniamérica Descomplica
-- 🌱 Hoje estudando Javascript/Html/Css
+- 🌱 Hoje estudando Javascript/Html/Css/Java
 - 😄 Pronouns:ela/dela
   
 <div>
