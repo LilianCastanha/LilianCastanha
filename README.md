@@ -1,13 +1,15 @@
 ## Olá! Eu sou a Lilian Castanha 
 
 - 🔭 Universitária em Engenharia de Software na Uniamérica Descomplica
-- 🌱 Hoje estudando Javascript/Html/Css/Java
+- 🌱 Hoje estudando Java/Javascript/Html/Css/Java
 - 😄 Pronouns:ela/dela
   
 <div>
   <img align="center" alt="js" height="40" width="50" src=https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E/>
   <img align="center" alt="html" height="40" width="50" src=https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white/>
   <img align="center" alt="js" height="40" width="50" src=https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white/>
+  <img  align="center" alt="js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+          
 </div>
 
 <div>
